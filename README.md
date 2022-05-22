@@ -1,1 +1,1 @@
-simualtions model for a single node 
+This is a general repository for programs related to my research  
